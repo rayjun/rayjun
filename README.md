@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rayjun
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning evm, solidity
