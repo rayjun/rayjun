@@ -1,6 +1,6 @@
 ### Hi, I'm Ray 👋
 
-A builder. Systematically studying the **Ethereum protocol**, with the help of **AI**.
+A builder. Systematically studying the **Ethereum protocol** and **AI**.
 
 - 🔭 Systematically studying the Ethereum protocol
 - ✍️ [blog](https://github.com/rayjun/blog)
@@ -20,9 +20,3 @@ A builder. Systematically studying the **Ethereum protocol**, with the help of *
 - 🔄 [EDex](https://github.com/rayjun/EDex) — A DEX experiment for EOAs
 - 👛 [HD-Wallet-explain](https://github.com/rayjun/HD-Wallet-explain) — HD wallet principles, demonstrated
 - 🛡️ [ethernaut_sols](https://github.com/rayjun/ethernaut_sols) — Ethernaut smart contract security challenge solutions (Foundry)
-
----
-
-### 📈 GitHub Activity
-
-[![Ray's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayjun&bg_color=ffffff&color=24292e&line=0366d6&point=24292e&hide_border=true&area=true)](https://github.com/rayjun)
