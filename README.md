@@ -1,8 +1,7 @@
 ### Hi, I'm Ray 👋
 
-A builder. Systematically studying the **Ethereum protocol** and **AI**.
+A builder. Focus on the **AI** and **Ethereum**.
 
-- 🔭 Systematically studying the Ethereum protocol
 - ✍️ [blog](https://github.com/rayjun/blog)
 
 ---
@@ -10,13 +9,7 @@ A builder. Systematically studying the **Ethereum protocol** and **AI**.
 ### 🚧 Currently building
 
 - ⚙️ [go-ethereum](https://github.com/ethereum/go-ethereum) — Go implementation of the Ethereum execution layer
-- 📖 [eth-protocol-fellows/protocol-studies](https://github.com/eth-protocol-fellows/protocol-studies) — EPF Wiki: Ethereum protocol research & learning materials ([epf.wiki](https://epf.wiki))
-- 🌐 [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) — ethereum.org website & docs
-- 🧠 [ai-coding-context](https://github.com/rayjun/ai-coding-context) — Context configs & workflows for AI coding
-- 📊 [obsidian-data-analysis](https://github.com/rayjun/obsidian-data-analysis) — Obsidian data analysis plugin
-- ☁️ [obsidian-google-drive-sync](https://github.com/rayjun/obsidian-google-drive-sync) — Obsidian sync plugin for Google Drive
-- 📚 [ethereum-skills](https://github.com/rayjun/ethereum-skills) — Ethereum learning materials & skill tree
-- 🪪 [EIP-7702](https://github.com/rayjun/EIP-7702) — EIP-7702 Casual Hackathon: co-creating the future of Account Abstraction
-- 🔄 [EDex](https://github.com/rayjun/EDex) — A DEX experiment for EOAs
-- 👛 [HD-Wallet-explain](https://github.com/rayjun/HD-Wallet-explain) — HD wallet principles, demonstrated
-- 🛡️ [ethernaut_sols](https://github.com/rayjun/ethernaut_sols) — Ethernaut smart contract security challenge solutions (Foundry)
+- ⛓️ [erigontech/erigon](https://github.com/erigontech/erigon) — Ethereum implementation on the efficiency frontier
+- ☤ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — The self-improving agent
+- 🔍 [agent-trace](https://github.com/rayjun/agent-trace) — native LLM tracing for Hermes, Codex CLI & Pi
+- 🎙️ [echomeet](https://github.com/rayjun/echomeet) — real-time meeting transcription & Chinese translation for macOS
